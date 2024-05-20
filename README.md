@@ -1,0 +1,1 @@
+A simple Python game made with Tkinter. Using the requests module it accesses random quotes that you must then type the quote as fast as possible. An average letters per second and accuracy rating are given.
